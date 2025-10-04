@@ -1,6 +1,4 @@
-ChatGPT said:
 
-Sure! Here’s a sample README.md file designed for a GitHub repository used for practicing Git and GitHub. You can modify the sections to better reflect your goals or the specific content of your repo.
 
 # GitHub Practice Repository
 
